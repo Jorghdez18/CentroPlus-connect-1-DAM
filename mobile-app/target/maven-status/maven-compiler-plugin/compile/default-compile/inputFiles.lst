@@ -1,0 +1,15 @@
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\PrincipalApplication.java
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\services\ActividadService.java
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\models\Actividad.java
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\models\Persona.java
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\repositories\UsuarioRepository.java
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\services\UsuarioService.java
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\models\Incidencia.java
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\models\Reserva.java
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\services\IncidenciaService.java
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\controllers\MainController.java
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\repositories\ActividadRepository.java
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\services\ReservaService.java
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\models\Usuario.java
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\repositories\ReservaRepository.java
+C:\Users\Usuario\CentroPlus-connect-1-DAM\mobile-app\src\main\java\es\ies\puerto\repositories\IncidenciaRepository.java

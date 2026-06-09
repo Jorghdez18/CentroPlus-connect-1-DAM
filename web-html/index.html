@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CentroPlus Connect</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+    <header>
+        <h1>CentroPlus Connect</h1>
+        <p>Gestión académica y deportiva (modo local)</p>
+    </header>
+
+    <nav>
+        <button onclick="mostrarSeccion('actividades')">Actividades</button>
+        <button onclick="mostrarSeccion('reservas')">Reservas</button>
+        <button onclick="mostrarSeccion('incidencias')">Incidencias</button>
+    </nav>
+
+    <main>
+
+        <!-- ACTIVIDADES -->
+        <section id="actividades" class="panel">
+            <h2>Actividades</h2>
+            <div id="listaActividades"></div>
+        </section>
+
+        <!-- RESERVAS -->
+        <section id="reservas" class="panel oculto">
+            <h2>Reservas</h2>
+            <div id="listaReservas"></div>
+        </section>
+
+        <!-- INCIDENCIAS -->
+        <section id="incidencias" class="panel oculto">
+            <h2>Incidencias</h2>
+
+            <form id="formIncidencia">
+                <input type="text" id="usuario" placeholder="Usuario" required />
+                <input type="text" id="asunto" placeholder="Asunto" required />
+                <textarea id="descripcion" placeholder="Descripción" required></textarea>
+                <button type="submit">Enviar</button>
+            </form>
+
+            <h3>Lista de incidencias</h3>
+            <div id="listaIncidencias"></div>
+
+            <p id="msg"></p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>CentroPlus Connect © 2026</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>

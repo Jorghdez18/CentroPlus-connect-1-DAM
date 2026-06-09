@@ -1,0 +1,13 @@
+.root {
+    -fx-background-color: #f2f4f8;
+    -fx-font-family: "Arial";
+}
+
+.list-view {
+    -fx-background-color: transparent;
+}
+
+.list-cell {
+    -fx-background-color: transparent;
+    -fx-padding: 5;
+}
