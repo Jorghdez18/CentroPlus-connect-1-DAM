@@ -58,24 +58,6 @@ La aplicación incorpora un apartado destinado al control de incidencias donde:
 
 ---
 
-## 🏗️ Estructura del proyecto
-
-```text
-CentroPlus-Connect
-│
-├── src
-│   ├── model
-│   ├── controller
-│   ├── view
-│   └── main
-│
-├── resources
-│
-└── README.md
-```
-
----
-
 ## 🎓 Objetivos académicos
 
 Con este proyecto se han trabajado los siguientes conceptos:
@@ -97,12 +79,6 @@ Con este proyecto se han trabajado los siguientes conceptos:
 - Exportación de informes.
 - Registro avanzado de incidencias.
 - Diseño visual más moderno y adaptable.
-
----
-
-## 👥 Autores
-
-Proyecto realizado por alumnos de **1º Desarrollo de Aplicaciones Multiplataforma (DAM)** como práctica de programación y desarrollo de aplicaciones de escritorio utilizando **JavaFX**.
 
 ---
 
